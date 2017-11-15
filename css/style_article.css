@@ -1,0 +1,84 @@
+body{
+  margin-left:180px;
+  margin-right:180px;
+  background-color:#d4e1ff;
+  width: 950px;
+}
+.title{
+  color: #000000;
+  margin-left:100px;
+ margin-top: 50px;
+ size:36px;
+}
+.site-nav{
+    width: 920px;
+    height: 50px;
+    background-color: #a1bdff;
+    border-radius: 3px;
+    margin-top: 20px;
+   box-shadow: 2px 2px 5px #a1bdff;
+}
+.site-nav ul{
+margin: 100;
+padding-left: 70px;
+}
+.site-nav li{
+  list-style: none;
+  float: left;
+  color: #00174b;
+  size:18px;
+  background-color:  #a1bdff;
+  margin: 16px 30px 16px 30px;
+}
+.photo{
+  width: 920px;
+  height: 350px;
+  float: left;
+  margin-top: 20px;
+  border-radius:50px;
+}
+.container{
+  margin-top: 10px;
+  margin-bottom: 40px;
+  width: 560px;
+  height: 330;
+  font-size:20px;
+  line-height: 30px;　　　          　
+  letter-spacing: 3px;
+  float: left;
+}
+.article{
+  margin-left: 40px;
+  margin-top: 20px;
+  width: 300;
+  height: 300px;
+  float: left;
+  font-size:18px;
+}
+
+.article_photo{
+  width: 400px;
+  height: 322px;
+  float: left;
+}
+
+footer{
+  height: 70px;
+  width: 920px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  background-color: #a1bdff;
+
+}
+.copyright{
+  float:left;
+  margin-left: 100px;
+  margin-top: 20px;
+  font-size:12px;
+}
+.icon{
+  size:32px;
+  float:right;
+  margin-top: 15px;
+  margin-right: 100px;
+}
